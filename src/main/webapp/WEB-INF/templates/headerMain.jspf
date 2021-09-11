@@ -1,0 +1,31 @@
+<link href="recursos/faw/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet" type="text/css"/>
+<link href="recursos/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="recursos/css/estilos.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+            .navbar-login
+            {
+                width: 305px;
+                padding: 10px;
+                padding-bottom: 0px;
+            }
+
+            .navbar-login-session
+            {
+                padding: 10px;
+                padding-bottom: 0px;
+                padding-top: 0px;
+            }
+
+            .icon-size
+            {
+                font-size: 87px;
+            }
+
+</style>
+<script>
+    function deshabilitaRetroceso(){
+        window.location.hash="no-back-button";
+        window.location.hash="Again-No-back-button"; //chrome
+        window.onhashchange=function(){window.location.hash="no-back-button";}
+     }
+</script>

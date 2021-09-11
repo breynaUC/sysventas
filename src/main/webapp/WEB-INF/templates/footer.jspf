@@ -1,0 +1,6 @@
+     <!--   <script src="js/jquery-3.3.1.min.js" type="text/javascript"></script>-->
+     </div>   
+     <script src="recursos/js/jquery-3.3.1.min.js" type="text/javascript"></script>
+     <script src="recursos/js/bootstrap.min.js" type="text/javascript"></script>
+     <script src="recursos/js/bootbox.min.js" type="text/javascript"></script>
+     <script src="recursos/js/script.js" type="text/javascript"></script>
